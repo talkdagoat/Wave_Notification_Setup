@@ -1,6 +1,6 @@
 // Replace this with your actual live Vercel URL
 // Ensure it matches the folder path structure exactly (api or API)
-const VERCEL_URL = "https://vercel.app";//the url for the current made server
+const VERCEL_URL ="https://wavenotification.vercel.app";//the url for the current made server
 let USER_WHO_GOT_THE_MESSAGE_or_CALL = "";
 let call = false;
 async function addItems(itemsArray) {
