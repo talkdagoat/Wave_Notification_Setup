@@ -1,5 +1,3 @@
- download the server root folder
-put all the files/folders in the root folder of your own repo
-host it on vercel with framework next it will auto put the correct commands
-it will ask to connect redis connect it and allow to use it as your database
-then deploy and use the url in the POST file
+copy the Vercel branch of this repo into your own repo 
+
+then publish that repo to vercel only because then vercel will ask you by itself to connect redis from there or create a redis account do that then copy that vercel url and use it in the app setup 
